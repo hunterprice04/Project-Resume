@@ -1,0 +1,6 @@
+[submodule "Machine-Learning-Projects"]
+	path = Machine-Learning-Projects
+	url = git@github.com:hunterprice04/Machine-Learning-Projects.git
+[submodule "Software-Development-Projects"]
+	path = Software-Development-Projects
+	url = git@github.com:hunterprice04/Software-Development-Projects.git
