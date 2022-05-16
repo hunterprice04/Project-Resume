@@ -4,3 +4,4 @@ This repo contains submodules pointing to my research projects for various cours
 The following are links to the individual projects:
 - [Machine-Learning-Projects](https://github.com/hunterprice04/Machine-Learning-Projects)
 - [Software-Development-Projects](https://github.com/hunterprice04/Software-Development-Projects)
+- [Random-Projects](https://github.com/hunterprice04/Random-Projects)

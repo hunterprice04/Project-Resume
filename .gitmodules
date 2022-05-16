@@ -4,3 +4,6 @@
 [submodule "Software-Development-Projects"]
 	path = Software-Development-Projects
 	url = git@github.com:hunterprice04/Software-Development-Projects.git
+[submodule "Random-Projects"]
+	path = Random-Projects
+	url = git@github.com:hunterprice04/Random-Projects.git
